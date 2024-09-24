@@ -1,0 +1,14 @@
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\bin\Debug\net8.0\Blackjack.exe
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\bin\Debug\net8.0\Blackjack.deps.json
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\bin\Debug\net8.0\Blackjack.runtimeconfig.json
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\bin\Debug\net8.0\Blackjack.dll
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\bin\Debug\net8.0\Blackjack.pdb
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\obj\Debug\net8.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\obj\Debug\net8.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\obj\Debug\net8.0\Blackjack.AssemblyInfo.cs
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\obj\Debug\net8.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\obj\Debug\net8.0\Blackjack.dll
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\obj\Debug\net8.0\refint\Blackjack.dll
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\obj\Debug\net8.0\Blackjack.pdb
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\obj\Debug\net8.0\Blackjack.genruntimeconfig.cache
+C:\Users\john.mendozatovera1\source\repos\Blackjack\Blackjack\obj\Debug\net8.0\ref\Blackjack.dll
